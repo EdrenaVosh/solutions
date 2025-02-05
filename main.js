@@ -40,8 +40,8 @@ const CATEGORIES_CONFIG = {
       { id: "hr_ndas", label: "NDAs", weight: 1 },
     ],
   },
-  Other: {
-    name: "Other",
+  "Forms & Agreements": {
+    name: "Forms & Agreements",
     options: [
       {
         id: "other_compliance_policies",
